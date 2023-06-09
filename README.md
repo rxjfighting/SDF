@@ -1,5 +1,5 @@
 # A stable depth fusion framework for monocular 3D object detection
-
+The configuration file will be made public soon.
 ## Abstract
 Monocular 3D object detection heavily relies on accurate
 depth prediction. While previous methods have improved
